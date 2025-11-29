@@ -7,8 +7,23 @@ A comprehensive React-based Student Management System with full administrative c
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-purple)
 ![Vite](https://img.shields.io/badge/Vite-4.4.0-yellow)
 
-![Dashboard](C:\Users\nilak\Downloads\main.jpeg)
-<img src="C:\Users\nilak\Downloads\main.jpeg" width="400">
+### 🏠 Main Dashboard
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/1b29baca7dd44a6f77ab4cface448b85d6706aca/main.jpeg)
+
+### 👥 Student Management
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/47d18ac09e0f07892434da95e7a6b25d904a1e36/student.jpeg)
+
+### 📊 Enrollment Management
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/c8c8d322f91acaef0747967af32cbc909206cd39/enroll.jpeg)
+
+### 📝 Grade Management
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/841943e7f66a518084b0a5a4c6cd9d7f517278d7/grade.jpeg)
+
+### 📅 Timetable Management
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/c3a6f7e2abd22e18713831f785ed788dbba936ed/timetable.jpeg)
+
+### 📈 Reports & Analytics
+![image alt](https://github.com/Janani1103/Student-Information-Portal/blob/3bc132fc5bafd2a33e2127215ac4d208b35ae1de/report.jpeg)
 
 ## ✨ Features
 
@@ -62,6 +77,8 @@ A comprehensive React-based Student Management System with full administrative c
    ```bash
    git clone https://github.com/yourusername/student-portal.git
    cd student-portal
+
+
 
 
 
