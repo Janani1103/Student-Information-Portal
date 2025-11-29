@@ -7,8 +7,8 @@ A comprehensive React-based Student Management System with full administrative c
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.0-purple)
 ![Vite](https://img.shields.io/badge/Vite-4.4.0-yellow)
 
-### 🏠 Main Dashboard
-![Dashboard](C:\Users\nilak\Downloads\Screenshot_29-11-2025_172820_localhost.jpeg)
+<img src="C:\Users\nilak\Downloads\main.jpeg" width="400">
+
 ## ✨ Features
 
 ### 🏠 Dashboard
@@ -61,5 +61,6 @@ A comprehensive React-based Student Management System with full administrative c
    ```bash
    git clone https://github.com/yourusername/student-portal.git
    cd student-portal
+
 
 
